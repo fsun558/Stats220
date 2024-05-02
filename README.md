@@ -1,6 +1,12 @@
-# **Stats220**
+# **Repo for STATS 220**
 
- Welcome to my channel, My name is Fan Sun. I will show the 5 project procedure here for Stats 220 in this semester. 
+## Welcome to my channel, I will use this repo to show some works for STATS220 project
 
-## Project 1
-!【](https://github.com/fsun558/Stats220/blob/72abd77b136ef07e07590698808202d1dc552f87/index.md)
+### *Project1*
+### *Project2*
+### *Project3*
+### *Project4*
+### *Project5*
+### *Redemption Project*
+
+## **Wish you enjoy this**
